@@ -1,0 +1,28 @@
+.nav-main {
+	list-style: none;
+	display: inline-block;
+	margin-left: -2em;
+}
+
+.main-title, .db_headline {
+	display: inline;
+}
+
+.db_headline {
+	margin-left: 55%;
+	margin-top: auto;
+	margin-bottom: auto;
+	padding: 6px;
+	border: 1px solid black;
+}
+
+.display-table {
+	table{width: 50%;top:100px;border-collapse:collapse;background-color:#99CCCC;position:relative}
+		td{padding:10px}
+		tr{text-align: center;}
+		th{text-align: center;text-decoration:underline}
+	    table,th,td{border:1px solid black;}
+}
+
+/*
+* {border: 2px dotted red;}*/
